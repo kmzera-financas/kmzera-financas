@@ -1,0 +1,9 @@
+2025/06/22-01:42:18.418 39bc Reusing MANIFEST C:\Users\Kaio\Desktop\financas-kmzera\whatsapp\tokens\kmzera\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/22-01:42:18.424 39bc Recovering log #54
+2025/06/22-01:42:18.429 39bc Reusing old log C:\Users\Kaio\Desktop\financas-kmzera\whatsapp\tokens\kmzera\Default\Local Storage\leveldb/000054.log 
+2025/06/22-02:00:18.549 39bc Level-0 table #58: started
+2025/06/22-02:00:18.606 39bc Level-0 table #58: 13713 bytes OK
+2025/06/22-02:00:18.621 39bc Delete type=0 #54
+2025/06/22-02:52:18.515 14fc Level-0 table #60: started
+2025/06/22-02:52:18.523 14fc Level-0 table #60: 12448 bytes OK
+2025/06/22-02:52:18.540 14fc Delete type=0 #57
