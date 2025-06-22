@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@remix-run/dev": "^2.16.8",
     "firebase-admin": "^13.4.0"
   }
 }
